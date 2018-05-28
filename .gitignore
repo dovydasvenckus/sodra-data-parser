@@ -1,5 +1,14 @@
+# IDEA
+out
+.idea
+*.iml
+
+# Gradle
+.gradle
+
 # Compiled class file
 *.class
+build
 
 # Log file
 *.log

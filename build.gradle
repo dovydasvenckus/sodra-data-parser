@@ -1,6 +1,10 @@
 apply plugin: 'java'
 
+repositories {
+    jcenter()
+}
+
 dependencies {
-    'org.apache.commons:commons-csv:1.5'
+    compile 'org.apache.commons:commons-csv:1.5'
 }
 
